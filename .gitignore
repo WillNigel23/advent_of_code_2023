@@ -1,0 +1,24 @@
+# Rust generated files
+**/target/
+
+# Cargo.lock files
+**/Cargo.lock
+
+# Visual Studio Code
+**/.vscode/
+
+# IntelliJ IDEA
+**/.idea/
+
+# Rust IntelliJ Plugin
+**/.rust/
+
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+
+# macOS
+**/.DS_Store
+
+# # Linux
+**/lost+found/
