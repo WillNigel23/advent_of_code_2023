@@ -1,6 +1,5 @@
 use std::env;
 use std::fs::read_to_string;
-use regex::Regex;
 
 fn parse_code(code: String) -> u32 {
     let mut first: Option<char> = None;
